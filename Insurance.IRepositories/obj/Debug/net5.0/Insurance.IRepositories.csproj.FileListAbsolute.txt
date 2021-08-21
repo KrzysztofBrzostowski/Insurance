@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\bin\Debug\net5.0\Insurance.IRepositories.deps.json
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\bin\Debug\net5.0\Insurance.IRepositories.dll
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\bin\Debug\net5.0\ref\Insurance.IRepositories.dll
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\bin\Debug\net5.0\Insurance.IRepositories.pdb
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\bin\Debug\net5.0\Insurance.Models.dll
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\bin\Debug\net5.0\Insurance.Models.pdb
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\obj\Debug\net5.0\Insurance.IRepositories.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\obj\Debug\net5.0\Insurance.IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\obj\Debug\net5.0\Insurance.IRepositories.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\obj\Debug\net5.0\Insurance.IRepositories.AssemblyInfo.cs
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\obj\Debug\net5.0\Insurance.IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\obj\Debug\net5.0\Insurance.IRepositories.csproj.CopyComplete
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\obj\Debug\net5.0\Insurance.IRepositories.dll
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\obj\Debug\net5.0\ref\Insurance.IRepositories.dll
+C:\Users\PC\source\repos\Insurance\Insurance.IRepositories\obj\Debug\net5.0\Insurance.IRepositories.pdb
